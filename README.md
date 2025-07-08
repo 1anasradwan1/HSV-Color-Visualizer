@@ -27,5 +27,5 @@ It is ideal for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HSV-Color-Visualizer.git
+   git clone https://github.com/1anasradwan1/HSV-Color-Visualizer.git
    cd HSV-Color-Visualizer
